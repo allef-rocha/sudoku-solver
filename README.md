@@ -99,7 +99,7 @@ Para executar o programa, digite:
 Onde **algoritmo** deve ser um dos seguintes:
 - **bfs** (Busca em largura)
 - **dfs** (Busca em profundidade)
-- **astar** (Busca em largura)
+- **astar** (A-estrela)
 - **backtracking** (Busca com retrocesso)
 - **backtracking-ac3** (Backtracking + AC3)
 
