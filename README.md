@@ -3,7 +3,7 @@
 Projeto desenvolvido para a disciplina de Inteligência Arificial
 UFABC - 2021.Q1 - Prof. Fabrício Olivetti de França (folivetti@ufabc.edu.br)
 
-# Descrição
+## Descrição
 
 Nesse projeto são utilizados diferentes algoritmos capazes de resolver uma instância do jogo Sudoku. Foram implementados os seguintes:
 
