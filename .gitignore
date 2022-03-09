@@ -1,0 +1,5 @@
+*.o
+test.txt
+.vscode
+.test
+bin/sudoku
